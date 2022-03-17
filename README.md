@@ -14,13 +14,13 @@ I really enjoy writing code which is minimalistic, elegant and effective as poss
 
 ## Porftolio
 <a href="https://ephraimbinyamin.github.io/Portfolio/Minimal/dist/" target="_blank">
-  <img src="https://ephraimbinyamin.github.io/Portfolio/Portfolio/dist/img/portfolio/Minimal.png" width="272">
+  <img src="https://ephraimbinyamin.github.io/Portfolio/Portfolio/dist/img/portfolio/Minimal.png" width="273">
 </a>
 <a href="https://ephraimbinyamin.github.io/Portfolio/CloudBudget/dist/" target="_blank">
-  <img src="https://ephraimbinyamin.github.io/Portfolio/Portfolio/dist/img/portfolio/CloudBudget.png" width="272">
+  <img src="https://ephraimbinyamin.github.io/Portfolio/Portfolio/dist/img/portfolio/CloudBudget.png" width="273">
 </a>
 <a href="https://ephraimbinyamin.github.io/Portfolio/DB/dist/" target="_blank">
-  <img src="https://ephraimbinyamin.github.io/Portfolio/Portfolio/dist/img/portfolio/DB.png" width="272">
+  <img src="https://ephraimbinyamin.github.io/Portfolio/Portfolio/dist/img/portfolio/DB.png" width="273">
 </a>
 
 ## Contacts
