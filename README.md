@@ -11,6 +11,7 @@ I really enjoy writing code which is minimalistic, elegant and effective as poss
 * CSS
 * JavaScript
 * Bootstrap
+* BEM
 
 ## Porftolio
 <a href="https://ephraimbinyamin.github.io/Portfolio/Minimal/dist/" target="_blank">
