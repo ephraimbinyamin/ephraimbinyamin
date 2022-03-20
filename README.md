@@ -39,7 +39,7 @@ I really enjoy writing code which is minimalistic, elegant and effective as poss
 </a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://telegram.im/@ephraimbinyamin" target="_blank">
-  <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-telegram-1.png" width="30">
+  <img src="https://github.com/ephraimbinyamin/ephraimbinyamin/blob/master/telegram.svg" width="30">
 </a>
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/ephraimbinyamin/ephraimbinyamin.github.io" target="_blank">
