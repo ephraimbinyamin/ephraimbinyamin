@@ -7,12 +7,10 @@ I'm Ephraim - Front-End Developer based in Bat Yam, Israel. <br>
 I really enjoy writing code which is minimalistic, elegant and effective as possible.
 
 ## Skills
-* HTML
-* CSS
-* JavaScript
+* HTML / CSS / JavaScript
 * Bootstrap
-* BEM
 * Gulp
+* BEM
 
 ## Porftolio
 <a href="https://ephraimbinyamin.github.io/Portfolio/Minimal/dist/" target="_blank">
