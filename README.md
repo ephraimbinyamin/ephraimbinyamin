@@ -4,7 +4,7 @@
 
 # Ephraim Binyaminov
 I'm Ephraim - Front-End Developer based in Bat Yam, Israel. <br>
-I really enjoy writing code which is minimalistic, elegant and effective as possible. I like to call it "Less Code, More Functionality".
+I really enjoy writing code which is minimalistic, elegant and effective as possible.
 
 ## Skills
 * HTML
